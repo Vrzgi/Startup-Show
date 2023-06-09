@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c93ac342-66cb-49f3-8d9a-59a21e512379" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/include/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="idea" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/include/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/include/vendor/hekmatinasser/verta" />
+      <path value="$PROJECT_DIR$/include/vendor/composer" />
+      <path value="$PROJECT_DIR$/include/vendor/hekmatinasser/notowo" />
+      <path value="$PROJECT_DIR$/include/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/container" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1oKrr9O9c9MyCTag8AUMufQzF8T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Views/judge" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c93ac342-66cb-49f3-8d9a-59a21e512379" name="Default" comment="" />
+      <created>1513111789484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513111789484</updated>
+      <workItem from="1513111791162" duration="736000" />
+      <workItem from="1513152695175" duration="194000" />
+      <workItem from="1513326896814" duration="43000" />
+      <workItem from="1584058072153" duration="61428000" />
+      <workItem from="1584472424669" duration="713000" />
+      <workItem from="1584488118518" duration="5446000" />
+      <workItem from="1584498233610" duration="16000" />
+      <workItem from="1584498334577" duration="25081000" />
+      <workItem from="1584837010097" duration="12818000" />
+      <workItem from="1585009232644" duration="8426000" />
+      <workItem from="1585224865809" duration="5624000" />
+      <workItem from="1585465202795" duration="4000" />
+      <workItem from="1585587058785" duration="2684000" />
+      <workItem from="1585672858085" duration="6280000" />
+      <workItem from="1585749892966" duration="13557000" />
+      <workItem from="1585859323984" duration="13652000" />
+      <workItem from="1585931910669" duration="10212000" />
+      <workItem from="1586035165970" duration="3225000" />
+      <workItem from="1586119826314" duration="634000" />
+      <workItem from="1586200023717" duration="16175000" />
+      <workItem from="1586274490153" duration="14159000" />
+      <workItem from="1586462003170" duration="10113000" />
+      <workItem from="1586604669098" duration="11635000" />
+      <workItem from="1586710973939" duration="7603000" />
+      <workItem from="1586800013096" duration="9934000" />
+      <workItem from="1586880505224" duration="12698000" />
+      <workItem from="1587009256449" duration="23386000" />
+      <workItem from="1587334494117" duration="3975000" />
+      <workItem from="1587581934902" duration="237000" />
+      <workItem from="1587673969911" duration="14164000" />
+      <workItem from="1588245966478" duration="535000" />
+      <workItem from="1588726458604" duration="473000" />
+      <workItem from="1588802839760" duration="2192000" />
+      <workItem from="1589314053410" duration="7628000" />
+      <workItem from="1589647308779" duration="104000" />
+      <workItem from="1589695874189" duration="11383000" />
+      <workItem from="1589877948143" duration="18705000" />
+      <workItem from="1590661483611" duration="36877000" />
+      <workItem from="1591319368200" duration="7000" />
+      <workItem from="1591475621823" duration="132000" />
+      <workItem from="1591733037479" duration="13366000" />
+      <workItem from="1591830396243" duration="5322000" />
+      <workItem from="1592171228024" duration="5220000" />
+      <workItem from="1592463383485" duration="5000" />
+      <workItem from="1592504970367" duration="11331000" />
+      <workItem from="1594127508419" duration="7898000" />
+      <workItem from="1594498853429" duration="477000" />
+      <workItem from="1594524778257" duration="578000" />
+      <workItem from="1594570885014" duration="1788000" />
+      <workItem from="1594662510695" duration="9000" />
+      <workItem from="1594996903925" duration="70000" />
+      <workItem from="1613046321029" duration="504000" />
+      <workItem from="1613813817664" duration="3516000" />
+      <workItem from="1613826531314" duration="110000" />
+      <workItem from="1613833990485" duration="3567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Deployment" timestamp="1613813956190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1613813956190" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1613826545025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613826545025" />
+    <state x="399" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1613813821259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1613813821259" />
+  </component>
+</project>
