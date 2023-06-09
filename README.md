@@ -1,7 +1,7 @@
 # Startup Show
  Website for registration of startups and business plans
  
-## Table of Contents
+## Contents
 
 - [Project Description](#project-description)
 - [Usage](#usage)
